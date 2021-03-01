@@ -1,0 +1,11 @@
+1, Bogdan, Kalinovski, M, 70, 189, Fotball, DA, 29, 1991-09-24
+2, Vladislav, Nicorici, M, 50, 170, Tenis, NU, 18, 2002-02-18
+3, Khabib, Nurmagomedov, M, 100, 190, MMA, DA, 30, 1990-12-30
+4, Alina, Hohland, F, 70, 170, Tenis, DA, 19, 2001-12-30
+5, Ana, Rotar, F, 100, 190, Inot, DA, 29, 1991-12-30
+6, Florica, Tartus, F, 56, 177, Alergare, NU, 35, 1985-12-30
+7, Ion, Swat, M, 100, 190, Fotbal, DA, 20, 2000-12-30
+8, Mihai, Onea, M, 90, 200, Ciclism, DA, 25, 1995-12-30
+9, Nicolae, Uber, M, 70, 170, Inot, NU, 30, 1990-12-30
+10, Cristina, Yandex, F, 45, 150, Inot, NU, 11, 2010-12-30
+13, Elon, Musk, M, 99, 190, Fizica, DA, 28, 1999-01-02
